@@ -1,5 +1,5 @@
 # 💫 About Me:
-https://www.linkedin.com/in/ehsan-khankeshizadeh-27a420110/
+Ehsan Khankeshizadeh is currently a Ph.D. candidate in remote sensing working on building detection, building change detection, and damage assessment topics./
 
 
 ## 🌐 Socials:
